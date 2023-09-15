@@ -43,7 +43,16 @@ Do not click the executable, instead we are going to want to open a Powershell w
 
 <img width="514" alt="Windows Powershell" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/2663b388-c336-4a6e-991e-806850af6580">
 
-Once in the command prompt we want to make sure we are in the same directory as the sysmon file that we juat extracted, to do this we will want to highlight the file path.
+Once in the command prompt we want to make sure we are in the same directory as the sysmon file that we juat extracted, to do this we will want to copy the file path.
+
+
+![image](https://github.com/MustangGuy86/sysmon-install/assets/103835436/99a5a7ae-be76-4f91-9139-5f9586f68d1e)
+
+
+Paste this into Powershell and append the cd command to the beginning, please note that your path may differ than mine.
+
+
+
 
 
 
