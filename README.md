@@ -54,6 +54,12 @@ Paste this into Powershell and append the cd command to the beginning, please no
 
 <img width="515" alt="Sysmon Directory Path" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/b774dbac-e3f2-4409-81b4-9f99b2bab394">
 
+We then want to make sure that our sysmon configuration file is within the same directory, this can be done by simply dragging the sysmon.config file within downloads and dropping it into the extracted sysmon file.
+
+Now type in the command .\Sysmon64.exe and hit enter, this will bring up the help option for this command.
+
+
+
 
 
 
