@@ -29,7 +29,11 @@ Click on the RAW button
 
 Right-click within the file and select save as, this will save the file to the downloads folder
 
-The sysmon install file should be downloaded by now so go ahead and navigate to the downloads folder within windows and locate the zip file named sysmon, right-click and select Extract Files
+The sysmon install file should be downloaded by now so go ahead and navigate to the downloads folder within windows and locate the zip file named sysmon. 
+
+Right-click and select Extract Files
+
+
 
 
 
