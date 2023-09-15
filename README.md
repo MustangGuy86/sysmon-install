@@ -1,4 +1,5 @@
-# sysmon-install
+# Sysmon-Install
+
 In this repository I will be doing a walk through of how to install sysmon on a Windows virtual machine.
 
 In this setup I will be running a Windows 10 Virtual machine on Vmware. The iso file for this machine can be downloaded from the following link:
