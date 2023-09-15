@@ -38,7 +38,13 @@ Right-click and select Extract Files
 <img width="512" alt="Extract Option for Sysmon" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/90b925d2-ebc8-4e69-8217-9ebc2d752931">
 
 
-Do not click the executable, instead we are going to want to open a Powershell window but we are going to want to run it with administrator access
+Do not click the executable, instead we are going to want to open a Powershell window, select "Run as Administrator"
+
+
+<img width="514" alt="Windows Powershell" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/2663b388-c336-4a6e-991e-806850af6580">
+
+Once in the command prompt we want to make sure we are in the same directory as the sysmon file that we juat extracted, to do this we will want to highlight the file path.
+
 
 
 
