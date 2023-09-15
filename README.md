@@ -34,7 +34,7 @@ The sysmon install file should be downloaded by now so go ahead and navigate to 
 Right-click and select Extract Files
 
 
-
+<img width="512" alt="Extract Option for Sysmon" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/90b925d2-ebc8-4e69-8217-9ebc2d752931">
 
 
 
