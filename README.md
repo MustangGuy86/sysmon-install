@@ -80,6 +80,7 @@ Once the installation is complete we can verify that sysmon has successfully ins
 2. Type Services within the search bar on the desktop, on the left pane select Applications and Services --> Microsoft --> Windows --> Scroll down untill you see Sysmon.
 
 
+<img width="445" alt="Event Viewer Sysmon" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/8fa9c1a3-fad3-436e-8d63-11ad4075ab7a">
 
 
 
