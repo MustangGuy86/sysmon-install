@@ -67,16 +67,17 @@ When you run this command a dialogue box will pop up for the licensing agreement
 
 Once the installation is complete we can verify that sysmon has successfully installed in one of two ways:
 
+
 1.  Type services in the search bar on the desktop. Once in Services scroll down until you see Sysmon64
 
 
    
-
+<img width="406" alt="Sysmon 64" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/0445166c-b345-4461-a700-34d58f6bdb28">
 
    
 
 
-
+2. Type Services within the search bar on the desktop, on the left pane select Applications and Services --> Microsoft --> Windows --> Scroll down untill you see Sysmon.
 
 
 
