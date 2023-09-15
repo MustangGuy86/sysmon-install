@@ -52,6 +52,8 @@ Once in the command prompt we want to make sure we are in the same directory as 
 Paste this into Powershell and append the cd command to the beginning, please note that your path may differ than mine.
 
 
+<img width="515" alt="Sysmon Directory Path" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/b774dbac-e3f2-4409-81b4-9f99b2bab394">
+
 
 
 
