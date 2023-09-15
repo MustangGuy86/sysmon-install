@@ -61,7 +61,16 @@ Now type in the command .\Sysmon64.exe and hit enter, this will bring up the hel
 We want to now install sysmon with the configuration file the command to do so show look like the following.
 
 
+<img width="374" alt="sysmon config command" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/7369f63f-ede2-4df3-980a-93c8805a382f">
 
+When you run this command a dialogue box will pop up for the licensing agreement just select AGREE and the installation will commence.
+
+Once the installation is complete we can verify that sysmon has successfully installed in one of two ways:
+
+1.  Type services in the search bar on the desktop. Once in Services scroll down until you see Sysmon64
+
+
+   
 
 
 
