@@ -13,3 +13,18 @@ You should see this screen when you open up the link
 
 
 <img width="718" alt="Sysmon Landing Page" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/30d9263d-0f48-453b-afd5-31714e5a373b">
+
+Select the option "Download Sysmon", if you wish to download it for a Linux machine then select the option below that one.
+
+While that is downloading go ahead and also download the sysmon configuration file found at this link:
+
+github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml
+
+This link will bring you to the following Github page
+
+
+
+
+
+
+
