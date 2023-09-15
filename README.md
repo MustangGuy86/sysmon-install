@@ -2,6 +2,10 @@
 
 In this repository I will be doing a walk through of how to install sysmon on a Windows virtual machine.
 
+
+
+
+
 For my setup I will be running a Windows 10 Virtual machine on Vmware. The iso file for this machine can be downloaded from the following link:
 
 https://info.microsoft.com/ww-landing-windows-10-enterprise.html
@@ -83,7 +87,7 @@ Once the installation is complete we can verify that sysmon has successfully ins
 <img width="445" alt="Event Viewer Sysmon" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/8fa9c1a3-fad3-436e-8d63-11ad4075ab7a">
 
 
-
+Sysmon has now successfully been installed.
 
 
 
