@@ -53,12 +53,12 @@ Once in the command prompt we want to make sure we are in the same directory as 
 ![image](https://github.com/MustangGuy86/sysmon-install/assets/103835436/99a5a7ae-be76-4f91-9139-5f9586f68d1e)
 
 
-Paste this into Powershell and append the cd command to the beginning, please note that your path may differ than mine since we will have different machine names.
+Paste this into Powershell and append the cd command to the beginning, please note that your path may differ from mine since we will have different machine names.
 
 
 <img width="515" alt="Sysmon Directory Path" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/b774dbac-e3f2-4409-81b4-9f99b2bab394">
 
-We then want to make sure that our sysmon configuration file is within the same directory, this can be done by simply dragging the sysmon.config file within downloads and dropping it into the extracted sysmon file.
+We then want to make sure that our sysmon configuration file is within the same directory, this can be done by simply dragging the sysmon.config file within downloads and dropping it into the extracted sysmon file which is also within Downloads.
 
 Now type in the command .\Sysmon64.exe and hit enter, this will bring up the help options for this command.
 
