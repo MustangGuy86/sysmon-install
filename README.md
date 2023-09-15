@@ -37,6 +37,13 @@ Right-click and select Extract Files
 <img width="512" alt="Extract Option for Sysmon" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/90b925d2-ebc8-4e69-8217-9ebc2d752931">
 
 
+Do not click the executable, instead we are going to want to open a Powershell window but we are going to want to run it with administrator access
+
+
+
+
+
+
 
 
 
