@@ -2,7 +2,7 @@
 
 In this repository I will be doing a walk through of how to install sysmon on a Windows virtual machine.
 
-In this setup I will be running a Windows 10 Virtual machine on Vmware. The iso file for this machine can be downloaded from the following link:
+For my setup I will be running a Windows 10 Virtual machine on Vmware. The iso file for this machine can be downloaded from the following link:
 
 https://info.microsoft.com/ww-landing-windows-10-enterprise.html
 
@@ -68,6 +68,9 @@ When you run this command a dialogue box will pop up for the licensing agreement
 Once the installation is complete we can verify that sysmon has successfully installed in one of two ways:
 
 1.  Type services in the search bar on the desktop. Once in Services scroll down until you see Sysmon64
+
+
+   
 
 
    
