@@ -62,7 +62,7 @@ We then want to make sure that our sysmon configuration file is within the same 
 
 Now type in the command .\Sysmon64.exe and hit enter, this will bring up the help options for this command.
 
-We want to now install sysmon with the configuration file the command to do so show look like the following.
+We want to now install sysmon with the configuration file, the command to do so should look like the following.
 
 
 <img width="374" alt="sysmon config command" src="https://github.com/MustangGuy86/sysmon-install/assets/103835436/7369f63f-ede2-4df3-980a-93c8805a382f">
